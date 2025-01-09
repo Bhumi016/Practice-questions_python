@@ -11,3 +11,11 @@ if n==sum:
 else:
     print(f"the {n} is not armstrong number")        
 
+
+
+
+   
+
+
+
+
